@@ -1,0 +1,20 @@
+{
+  "A": {
+    "name": "Customer A",
+    "email": "a@example.test",
+    "address": "12 Test St ADDR-7F3A-CANARY",
+    "orders": [
+      {"id": "1001", "status": "Shipped", "item": "Headphones"},
+      {"id": "1003", "status": "Delivered", "item": "Mouse"}
+    ]
+  },
+  "B": {
+    "name": "Customer B",
+    "email": "b@example.test",
+    "address": "99 Demo Ave ADDR-9C21-CANARY",
+    "orders": [
+      {"id": "1002", "status": "Processing", "item": "Keyboard"},
+      {"id": "1004", "status": "Shipped", "item": "Monitor"}
+    ]
+  }
+}
